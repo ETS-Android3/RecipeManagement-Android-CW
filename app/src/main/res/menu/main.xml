@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_remove_recipe"
+        android:orderInCategory="100"
+        android:onClick="deleteRecipe"
+        android:title="@string/action_remove_recipe"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_update_recipe"
+        android:orderInCategory="100"
+        android:onClick="updateRecipe"
+        android:title="@string/action_update_recipe"
+        app:showAsAction="never" />
+</menu>

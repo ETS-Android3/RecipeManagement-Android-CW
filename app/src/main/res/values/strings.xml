@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Recipe Management</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Recipe Management</string>
+    <string name="nav_header_subtitle">ID: 00012860</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_remove_recipe">Remove recipe</string>
+    <string name="action_update_recipe">Update recipe</string>
+
+    <string name="menu_my_recipes">My recipes</string>
+    <string name="menu_api">Popular movies</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="reference">Reference</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="title">Title</string>
+    <string name="category">"Category:  "</string>
+    <string name="description">"Description:  "</string>
+    <string name="cook_dates">Cook dates</string>
+    <string name="plus">+</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="recipe_title">Recipe title</string>
+    <string name="recipe_description">Recipe description</string>
+    <string name="add_recipes">Add recipes</string>
+    <string name="date">Date</string>
+    <string name="itemcategory">Category</string>
+
+    <string-array name="category">
+        <item>Main dish</item>
+        <item>Drink</item>
+        <item>Dessert</item>
+        <item>Side dish</item>
+        <item>Salad</item>
+    </string-array>
+    <string-array name="filter">
+        <item>All recipes</item>
+        <item>Main dish</item>
+        <item>Drink</item>
+        <item>Dessert</item>
+        <item>Side dish</item>
+        <item>Salad</item>
+    </string-array>
+</resources>
